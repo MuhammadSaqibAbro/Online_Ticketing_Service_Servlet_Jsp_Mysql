@@ -52,7 +52,7 @@ The application uses **Chart.js** to visualize event data, such as ticket sales 
 ![Screenshot 2025-05-08 173043](https://github.com/user-attachments/assets/4cba74d2-908d-4a20-830d-6904a38e5f03)
 ![Screenshot 2025-05-08 173120](https://github.com/user-attachments/assets/e843b55e-fd26-4cd5-bb2d-e74f99fbabfd)
 ![Screenshot 2025-05-08 173217](https://github.com/user-attachments/assets/f4c591a2-5e1b-4bb3-bf72-afcbccca26f1)
-![Uploading Screenshot 2025-05-08 173250.png…]()
+
 
 
 ## 🛠️ **Installation Guide**
